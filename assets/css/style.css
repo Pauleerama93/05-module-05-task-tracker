@@ -14,3 +14,12 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+.bg-success {
+  background-color: green !important;
+  color: white;
+}
+
+.bg-purple {
+    background-color: purple !important;
+    color: white;
+}
