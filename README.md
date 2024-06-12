@@ -53,4 +53,15 @@ SO THAT I can add individual project tasks, manage their state of progress, and 
 
 ## Deployed Link
 
+https://pauleerama93.github.io/05-module-05-task-tracker/
+
+## Credits
+
+I would like to extend my deepest gratitude to my teachers, Drew and Kyle, for their invaluable guidance and support throughout the development of this module. Their expertise and encouragement were instrumental in helping me navigate the challenges and successfully complete this project.
+
+A special thanks to Drew for his speed runs, which were exceptionally helpful in understanding the concepts and techniques required to optimize performance and efficiency.
+
+Thank you both for your dedication to teaching and for inspiring me to achieve my best.
+
+
 
